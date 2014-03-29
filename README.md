@@ -1,9 +1,9 @@
 coffeescript
 ============
 
-Example peice of coffee script
 
 1. Intro to Coffeescript
+
     -What is Coffeescript? 
         A programming language that transcompiles into JavaScript. Inspired by Ruby and Python.
             -Transcompiles means that you must compile your coffeescript into .js files
