@@ -26,7 +26,7 @@ coffeescript
         -Easier to Read
     
 2. Cons of Coffeescript?
-3. 
+ 
     -Adds an additional step of compiling.
 
     -the javascript that is produced isn't written by you, so it can be harder to read.
