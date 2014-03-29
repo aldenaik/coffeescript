@@ -103,7 +103,7 @@ coffeescript
       10. You will now have a new file created called test.js (this is your compied coffeescript.)
       11. Because we called "watch" on the file any changes that are saved in your coffeescript will automatically be             updated to your .js file.
 
-      *12* Additional info. If you want to watch an entire folder and update all the coffee files to .js then type the following in terminal                 coffee -c -o js --watch source    
+      ** Additional info. If you want to watch an entire folder and update all the coffee files to .js then type the following in terminal                 coffee -c -o js --watch source    
       
 
 3. Tutorial-
