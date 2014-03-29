@@ -5,23 +5,32 @@ coffeescript
 1. Intro to Coffeescript
 
     -What is Coffeescript? 
+    
         A programming language that transcompiles into JavaScript. Inspired by Ruby and Python.
             -Transcompiles means that you must compile your coffeescript into .js files
 
     -Why was it made? 
-        It use syntax that improves readablity as well as requires less written code. (~1/3-1/2 less).
+    
+        It uses syntax that improves readablity as well as requires less written code. (~1/3-1/2 less).
 
     -What is it for? 
-        Is used in fronend apps (including Angularjs)
+    
+        Is used in frontend apps (including Angularjs).
+        
         Is used in backend apps (especially Nodejs)(is included in ruby on rails)
 
     -Why use it over regular Javascript?
+    
         -Less Code
+        
         -Easier to Read
     
 2. Cons of Coffeescript?
+3. 
     -Adds an additional step of compiling.
+
     -the javascript that is produced isn't written by you, so it can be harder to read.
+    
     -Troubleshooting can be a pain because you have to check between coffescriptfiles and javascript files.
 
 4. Coffeescript set-up.
