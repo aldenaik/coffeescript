@@ -98,8 +98,7 @@ coffeescript
 
         8. In your terminal make sure you are in the folder that contains test.coffee
         
-        9. type the following                      coffee --watch --compile test.coffee
-      (the test.cofffee is the name of the file you want to have compiled)
+        9. type the following                      coffee --watch --compile test.coffee       (the test.cofffee is the name of the file you want to have compiled)
       
       10. You will now have a new file created called test.js (this is your compied coffeescript.)
       11. Because we called "watch" on the file any changes that are saved in your coffeescript will automatically be             updated to your .js file.
